@@ -1,0 +1,26 @@
+{
+  "firmware": [
+    {
+      "version": "2026-10-23",
+      "base": "ExpressLRS 4.1.0-157-gdd966545 + raceng-airport patch",
+      "files": {
+        "ur500_rx": {
+          "file": "2026-10-23/ur500_rx.bin",
+          "sha256": "0affd3159954efc71d77d4dcd73bc8ae687a969037e3cf9ace977c1a9beab55a"
+        },
+        "ur500_tx": {
+          "file": "2026-10-23/ur500_tx.bin",
+          "sha256": "1044f91e7ddc22d94c7f925ede26079b07fff48cbc79b5c78d86399eba32489e"
+        },
+        "ur500_tx_2g4": {
+          "file": "2026-10-23/ur500_tx_2g4.bin",
+          "sha256": "23de1aed78e5a54494b81489cf18cab0dfdb4d6b9e7853dd8e50f7f10cdedfd6"
+        },
+        "ur500_tx_900std": {
+          "file": "2026-10-23/ur500_tx_900std.bin",
+          "sha256": "04a39d8a32ffe90e00de4f118c7c1097c28677501545e71eb49fa8e489cd9c05"
+        }
+      }
+    }
+  ]
+}

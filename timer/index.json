@@ -1,0 +1,18 @@
+{
+  "firmware": [
+    {
+      "version": "1.4.0",
+      "date": "2026-10-19",
+      "files": {
+        "nano": {
+          "file": "1.4.0/raceng_laptimer_1.4.0.hex",
+          "sha256": "7c0afc99281632938ce6fdb498d12706b4918f6489e86b0cbf05c2ce397e8a8b"
+        },
+        "s3": {
+          "file": "1.4.0/raceng_laptimer_pro_1.4.0.bin",
+          "sha256": "48268cbbb447963843731b0fe6f8847a307136b80d9fddd334b5b31cc8250731"
+        }
+      }
+    }
+  ]
+}
