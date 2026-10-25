@@ -1,0 +1,14 @@
+{
+  "firmware": [
+    {
+      "version": "1.0.0",
+      "date": "2026-10-27",
+      "files": {
+        "c5": {
+          "file": "1.0.0/raceng_laptimer_1.0.0.bin",
+          "sha256": "5ac2393a5983dcc5b2bc5b89392927662f115f8e53da7b83180813fee5623e85"
+        }
+      }
+    }
+  ]
+}
