@@ -1,6 +1,26 @@
 {
   "firmware": [
     {
+      "version": "1.0.3",
+      "date": "2026-10-29",
+      "files": {
+        "c5": {
+          "file": "1.0.3/raceng_laptimer_1.0.3.bin",
+          "sha256": "cdc026984449a0f146ba2920ebc90aed5954e7628f2f3eb0751cc27198265b91"
+        }
+      }
+    },
+    {
+      "version": "1.0.2",
+      "date": "2026-10-29",
+      "files": {
+        "c5": {
+          "file": "1.0.2/raceng_laptimer_1.0.2.bin",
+          "sha256": "49b13b1080d11d1dc27a92d1dc0e21ad96a85e15dafe12d5d2e242e477f5c4c9"
+        }
+      }
+    },
+    {
       "version": "1.0.1",
       "date": "2026-10-28",
       "files": {
